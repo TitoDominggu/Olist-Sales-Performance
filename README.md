@@ -85,5 +85,5 @@ Olist adalah marketplace yang menghubungkan seller dengan pelanggan di seluruh B
 | `README.md` | Dokumentasi proyek |
 
 ---
-👤 **Johannes Krysosthomus Thedens Dominggu**
+👤 **Johannes Krysosthomus Thedens Dominggu**  
 [LinkedIn](https://www.linkedin.com/in/johannes-krysosthomus-thedens-dominggu/) · [GitHub](https://github.com/TitoDominggu)
